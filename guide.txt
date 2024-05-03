@@ -1,0 +1,7 @@
+//On every component make sure to add the prop-types
+
+//You should fix the css to get as close as possible to the expected output
+
+//The 4th task should display the data instead of the static data
+
+//apply the css classname from the module to the component
